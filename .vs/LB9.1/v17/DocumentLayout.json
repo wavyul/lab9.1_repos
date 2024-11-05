@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\LB9.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F751BC78-5EB0-4E2E-8BAE-73C1FC3D7205}|LB9.1\\LB9.1.vcxproj|D:\\project\\LB9.1\\LB9.1\\var.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F751BC78-5EB0-4E2E-8BAE-73C1FC3D7205}|LB9.1\\LB9.1.vcxproj|solutionrelative:LB9.1\\var.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F751BC78-5EB0-4E2E-8BAE-73C1FC3D7205}|LB9.1\\LB9.1.vcxproj|D:\\project\\LB9.1\\LB9.1\\dod.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F751BC78-5EB0-4E2E-8BAE-73C1FC3D7205}|LB9.1\\LB9.1.vcxproj|solutionrelative:LB9.1\\dod.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326D86C6-74B4-46CA-A9E5-16F696568EAD}|UnitTest9.1\\UnitTest9.1.vcxproj|D:\\project\\LB9.1\\UnitTest9.1\\UnitTest9.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{326D86C6-74B4-46CA-A9E5-16F696568EAD}|UnitTest9.1\\UnitTest9.1.vcxproj|solutionrelative:UnitTest9.1\\UnitTest9.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F751BC78-5EB0-4E2E-8BAE-73C1FC3D7205}|LB9.1\\LB9.1.vcxproj|D:\\project\\LB9.1\\LB9.1\\dod.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F751BC78-5EB0-4E2E-8BAE-73C1FC3D7205}|LB9.1\\LB9.1.vcxproj|solutionrelative:LB9.1\\dod.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F751BC78-5EB0-4E2E-8BAE-73C1FC3D7205}|LB9.1\\LB9.1.vcxproj|D:\\project\\LB9.1\\LB9.1\\sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F751BC78-5EB0-4E2E-8BAE-73C1FC3D7205}|LB9.1\\LB9.1.vcxproj|solutionrelative:LB9.1\\sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F751BC78-5EB0-4E2E-8BAE-73C1FC3D7205}|LB9.1\\LB9.1.vcxproj|D:\\project\\LB9.1\\LB9.1\\sum.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F751BC78-5EB0-4E2E-8BAE-73C1FC3D7205}|LB9.1\\LB9.1.vcxproj|solutionrelative:LB9.1\\sum.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F751BC78-5EB0-4E2E-8BAE-73C1FC3D7205}|LB9.1\\LB9.1.vcxproj|D:\\project\\LB9.1\\LB9.1\\var.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F751BC78-5EB0-4E2E-8BAE-73C1FC3D7205}|LB9.1\\LB9.1.vcxproj|solutionrelative:LB9.1\\var.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F751BC78-5EB0-4E2E-8BAE-73C1FC3D7205}|LB9.1\\LB9.1.vcxproj|D:\\project\\LB9.1\\LB9.1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F751BC78-5EB0-4E2E-8BAE-73C1FC3D7205}|LB9.1\\LB9.1.vcxproj|solutionrelative:LB9.1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\project\\LB9.1\\LB9.1\\main.cpp",
+              "RelativeDocumentMoniker": "LB9.1\\main.cpp",
+              "ToolTip": "D:\\project\\LB9.1\\LB9.1\\main.cpp",
+              "RelativeToolTip": "LB9.1\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T09:41:31.141Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "var.cpp",
+              "DocumentMoniker": "D:\\project\\LB9.1\\LB9.1\\var.cpp",
+              "RelativeDocumentMoniker": "LB9.1\\var.cpp",
+              "ToolTip": "D:\\project\\LB9.1\\LB9.1\\var.cpp",
+              "RelativeToolTip": "LB9.1\\var.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T14:41:54.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sum.h",
+              "DocumentMoniker": "D:\\project\\LB9.1\\LB9.1\\sum.h",
+              "RelativeDocumentMoniker": "LB9.1\\sum.h",
+              "ToolTip": "D:\\project\\LB9.1\\LB9.1\\sum.h",
+              "RelativeToolTip": "LB9.1\\sum.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-01T09:41:13.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sum.cpp",
+              "DocumentMoniker": "D:\\project\\LB9.1\\LB9.1\\sum.cpp",
+              "RelativeDocumentMoniker": "LB9.1\\sum.cpp",
+              "ToolTip": "D:\\project\\LB9.1\\LB9.1\\sum.cpp",
+              "RelativeToolTip": "LB9.1\\sum.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T14:41:01.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dod.cpp",
+              "DocumentMoniker": "D:\\project\\LB9.1\\LB9.1\\dod.cpp",
+              "RelativeDocumentMoniker": "LB9.1\\dod.cpp",
+              "ToolTip": "D:\\project\\LB9.1\\LB9.1\\dod.cpp",
+              "RelativeToolTip": "LB9.1\\dod.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T14:40:07.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest9.1.cpp",
+              "DocumentMoniker": "D:\\project\\LB9.1\\UnitTest9.1\\UnitTest9.1.cpp",
+              "RelativeDocumentMoniker": "UnitTest9.1\\UnitTest9.1.cpp",
+              "ToolTip": "D:\\project\\LB9.1\\UnitTest9.1\\UnitTest9.1.cpp",
+              "RelativeToolTip": "UnitTest9.1\\UnitTest9.1.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T09:46:52.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dod.h",
+              "DocumentMoniker": "D:\\project\\LB9.1\\LB9.1\\dod.h",
+              "RelativeDocumentMoniker": "LB9.1\\dod.h",
+              "ToolTip": "D:\\project\\LB9.1\\LB9.1\\dod.h",
+              "RelativeToolTip": "LB9.1\\dod.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-01T09:40:05.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "var.h",
+              "DocumentMoniker": "D:\\project\\LB9.1\\LB9.1\\var.h",
+              "RelativeDocumentMoniker": "LB9.1\\var.h",
+              "ToolTip": "D:\\project\\LB9.1\\LB9.1\\var.h",
+              "RelativeToolTip": "LB9.1\\var.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-01T09:32:24.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
